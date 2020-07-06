@@ -1,5 +1,5 @@
 body, h2 {
-  font-family: Ubuntu, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 body {
@@ -69,17 +69,17 @@ li {
   display: none;
   text-align: center;
   padding: 10px;
-  border: 2px solid darkred;
+  border: 2px solid rgb(0, 0, 0);
   font-size: 16px;
   font-weight: bold;
   cursor: pointer;
-  background-color: lavenderblush;
+  background-color: rgb(255, 255, 255);
   border-radius: 5px;
 }
 
 .button:hover {
-  color: red;
-  background-color: darkred;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
 }
 
 .notes {

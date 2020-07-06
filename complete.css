@@ -49,9 +49,9 @@
 
 .button {
   padding: 10px;
-  border: 2px solid darkred;
+  border: 2px solid rgb(0, 0, 0);
   font-size: 16px;
-  background-color: lavenderblush;
+  background-color: rgb(255, 255, 255);
   font-weight: bold;
   margin: 10px 20px;
   cursor: pointer;
@@ -59,8 +59,8 @@
 }
 
 .button:hover {
-  color: red;
-  background-color: darkred;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
 }
 
 #review {
